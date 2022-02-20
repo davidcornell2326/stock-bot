@@ -134,3 +134,5 @@ keys.py
 #.pem
 *.pem
 alpaca_AWS.pem
+connect to ec2.txt
+testing.py
