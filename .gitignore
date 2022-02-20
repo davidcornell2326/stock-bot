@@ -132,3 +132,5 @@ keys.py
 *.xml
 *.iml
 #.pem
+*.pem
+alpaca_AWS.pem
