@@ -135,4 +135,7 @@ keys.py
 *.pem
 alpaca_AWS.pem
 connect to ec2.txt
-testing.py
+/bars
+/modified_bars
+/classifiers
+/classifiers_1

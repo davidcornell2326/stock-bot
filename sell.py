@@ -19,4 +19,4 @@ if count == 0:
 else:
     message = "I have sold all positions held today. The total number of positions sold was " + str(count) + \
              ". The total account equity after selling is " + equity + "."
-send_message(message)
+# send_message(message)
